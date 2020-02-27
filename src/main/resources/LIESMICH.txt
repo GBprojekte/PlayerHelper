@@ -1,0 +1,4 @@
+Diese Hilfe wurde von PlayerHelper v1.0 erstellt wenn sie Hilfe brauchen sind sie in dieser Datei richtig.
+
+
+Spieler bekommen eine Schaufel wenn sie Sneaken! = Das ist ganz normal, dass ist eine Funktion die den Spielern beim Graben Hilft.
